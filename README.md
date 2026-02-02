@@ -1,5 +1,3 @@
-Berikut contoh **README.md** untuk proyek Python MVC pengolahan citra (grayscale → Sobel → threshold) lengkap dengan panduan penggunaan **virtual environment (venv)**.
-
 Aplikasi Python sederhana dengan arsitektur **Model–View–Controller (MVC)** untuk:
 
 * Input citra
